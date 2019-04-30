@@ -1,2 +1,2 @@
 # intro
-Notes for an introductary course
+Notes for an introductory course
